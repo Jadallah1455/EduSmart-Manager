@@ -6,33 +6,33 @@
 
 ## ✨ Features
 
-- 🔐 **Login System** – Secure access to the system
-- 👨‍🎓 **Add & Manage Students** – With full details and record tracking
-- 👩‍🏫 **Add Teachers & Employees** – Store and manage personal and salary info
-- 🧑‍💼 **Manager Panel** – Add managers with special access
-- 📘 **Subject Management** – Create, edit, and list school subjects
-- 💰 **Show Employee Salaries** – Display salaries in structured view
-- 📊 **Count Students** – View total students in the system
-- 🏠 **Home Dashboard** – Main GUI hub for all actions
-- 🎨 Built using **Java Swing Forms** with `.form` & `.java` files
+- 🔐 **Login System** – Secure access to the system  
+- 👨‍🎓 **Add & Manage Students** – With full details and record tracking  
+- 👩‍🏫 **Add Teachers & Employees** – Store and manage personal and salary info  
+- 🧑‍💼 **Manager Panel** – Add managers with special access  
+- 📘 **Subject Management** – Create, edit, and list school subjects  
+- 💰 **Show Employee Salaries** – Display salaries in structured view  
+- 📊 **Count Students** – View total students in the system  
+- 🏠 **Home Dashboard** – Main GUI hub for all actions  
+- 🎨 Built using **Java Swing Forms** with `.form` & `.java` files  
 
 ---
 
 ## 🛠 Technologies Used
 
-- Java Standard Edition (Java SE)
-- NetBeans IDE (for GUI design and `.form` files)
-- Swing (for graphical interface)
-- Object-Oriented Programming (OOP)
+- Java Standard Edition (Java SE)  
+- NetBeans IDE (for GUI design and `.form` files)  
+- Swing (for graphical interface)  
+- Object-Oriented Programming (OOP)  
 
 ---
 
 ## 🚀 How to Run the Project
 
-1. Clone or download the repository.
-2. Open it using **NetBeans IDE** (recommended).
-3. Locate and run `login.java` or `HOME.java` to start the system.
-4. Use the GUI to navigate through the system functionalities.
+1. Clone or download the repository.  
+2. Open it using **NetBeans IDE** (recommended).  
+3. Locate and run `login.java` or `HOME.java` to start the system.  
+4. Use the GUI to navigate through the system functionalities.  
 
 ---
 
@@ -57,3 +57,12 @@
 ├── Manager.java
 ├── Subject.java
 ├── Details.java
+
+
+---
+
+
+## 🙌 Author
+
+**Jadallah Khaled AL_Banna**  
+📧 [jad2003banna@gmail.com](mailto:jad2003banna@gmail.com)
